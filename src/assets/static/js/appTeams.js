@@ -1,7 +1,7 @@
 export const teams =[
     {
-        'firstName' : 'Menuk',
-        'lastName'  : 'Efrim',
+        'firstName' : 'Efrim',
+        'lastName'  : 'Menuk',
         'verbatim'  : 'Behaviour-driven Self-driving Conference Calls',
         'jobTitle'  : 'Full Stack 🚀',
         'profilePic': 'profil01.jpg',
@@ -11,7 +11,7 @@ export const teams =[
             },
             {
                 'label':'php',
-                'level':5
+                'level':2
             }
         ]
     },
